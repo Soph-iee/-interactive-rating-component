@@ -4,7 +4,7 @@ This project is an interactive component. I completed this project writing pure 
 
 ### Links
 
-- Solution URL: https://soph-iee.github.io/https---github.com-Soph-iee-interactive-rating-component/
+- Solution URL: https://soph-iee.github.io/-interactive-rating-component/
 
 ## My process
 
